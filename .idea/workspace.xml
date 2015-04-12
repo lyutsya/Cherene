@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd11aa65-2a2e-4233-87c2-d9ab2fdced0c" name="Default" comment="" />
+    <list default="true" id="cd11aa65-2a2e-4233-87c2-d9ab2fdced0c" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Venda-1.png" afterPath="$PROJECT_DIR$/venda-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Venda-2.png" afterPath="$PROJECT_DIR$/venda-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Venda-3.png" afterPath="$PROJECT_DIR$/venda-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Venda-4.png" afterPath="$PROJECT_DIR$/venda-4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Venda-5.png" afterPath="$PROJECT_DIR$/venda-5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Venda-6.png" afterPath="$PROJECT_DIR$/venda-6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Arquivo Comprimido.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +98,7 @@
           <file leaf-file-name="all-pages.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/all-pages.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.8618421" vertical-offset="5626" max-vertical-offset="6255">
+                <state vertical-scroll-proportion="0.8646865" vertical-offset="5626" max-vertical-offset="6255">
                   <caret line="410" column="24" selection-start-line="410" selection-start-column="24" selection-end-line="410" selection-end-column="24" />
                   <folding />
                 </state>
@@ -121,7 +130,7 @@
     <option name="width" value="1280" />
     <option name="height" value="726" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -237,14 +246,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329653" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12708499" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12708499" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -623,7 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/all-pages.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8618421" vertical-offset="5626" max-vertical-offset="6255">
+        <state vertical-scroll-proportion="0.8646865" vertical-offset="5626" max-vertical-offset="6255">
           <caret line="410" column="24" selection-start-line="410" selection-start-column="24" selection-end-line="410" selection-end-column="24" />
           <folding />
         </state>
